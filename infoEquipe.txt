@@ -1,5 +1,21 @@
 (PO)
-Product Owner Gilberto Laske Junior
+Product Owner: Gilberto Laske Junior
 Equipe: HELL FIRE
 (SM)
-asdpsjioadpskoad
+
+
+	Desenvolvedor 1: Willen Carvalho Duarte
+	Habilidades: Bloco de notas, Program Git
+	Experiências: 10 anos de git
+
+	Desenvolvedor 2:
+	Habilidades:
+	Experiências:
+
+	Desenvolvedor 3:
+	Habilidades:
+	Experiências:
+	
+	Desenvolvedor 4:
+	Habilidades:
+	Experiências:
